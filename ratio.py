@@ -44,4 +44,4 @@ def draw(low:int,up:int, iteration:int)->None:
     plt.legend()
     plt.savefig('ratio.png')
     
-draw(10,28,1)
+draw(10,32,1)
